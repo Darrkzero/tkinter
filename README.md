@@ -7,11 +7,9 @@
 ![GitHub stars](https://img.shields.io/github/stars/Darrkzero/tkinter.svg?style=social&label=Star&maxAge=2592000)
 ![GitHub watchers](https://img.shields.io/github/watchers/Darrkzero/tkinter.svg?style=social&label=Watch&maxAge=2592000)
 
-# <p align="center">tkinter</p>
-tkinter basic calculator.
-Using tkinter to create a grahphical user interface 
-Basic calculator that contain addition, subtraction, multiplication, and division
+# <p align="center">tkinter basic calculator</p>
+Using tkinter to create a grahphical user interface calculator.
 
-<p align="center">Introduction</p>
+# <p align="center">Introduction</p>
 <h4 align="center">This is a tutorial to help contributors to participate in a simple and easy project.</h4>
 
