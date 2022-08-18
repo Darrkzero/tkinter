@@ -1,3 +1,13 @@
+<p align="center" width="100%">
+<img src="tkin.webp" width="300">
+
+# <p align="center">[Contribute To This Project](https://Darrkzero.github.io/tkinter/)</p>
+</p>
+
+![GitHub forks](https://img.shields.io/github/forks/Darrkzero/tkinter.svg?style=social&label=Fork&maxAge=2592000)
+![GitHub stars](https://img.shields.io/github/stars/Darrkzero/tkinter.svg?style=social&label=Star&maxAge=2592000)
+![GitHub watchers](https://img.shields.io/github/Darrkzero/tkinter.svg?style=social&label=Watch&maxAge=2592000)
+
 # tkinter
 tkinter basic calculator.
 Using tkinter to create a grahphical user interface 
