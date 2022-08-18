@@ -1,7 +1,6 @@
 <p align="center" width="100%">
 <img src="tkin.webp" width="300">
 
-# <p align="center">[Contribute To This Project]</p>
 </p>
 
 ![GitHub forks](https://img.shields.io/github/forks/Darrkzero/tkinter.svg?style=social&label=Fork&maxAge=2592000)
@@ -12,3 +11,7 @@
 tkinter basic calculator.
 Using tkinter to create a grahphical user interface 
 Basic calculator that contain addition, subtraction, multiplication, and division
+
+<p align="center">Introduction</p>
+<h4 align="center">This is a tutorial to help contributors to participate in a simple and easy project.</h4>
+
