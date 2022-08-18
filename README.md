@@ -6,7 +6,7 @@
 
 ![GitHub forks](https://img.shields.io/github/forks/Darrkzero/tkinter.svg?style=social&label=Fork&maxAge=2592000)
 ![GitHub stars](https://img.shields.io/github/stars/Darrkzero/tkinter.svg?style=social&label=Star&maxAge=2592000)
-![GitHub watchers](https://img.shields.io/github/Darrkzero/tkinter.svg?style=social&label=Watch&maxAge=2592000)
+![GitHub watchers](https://img.shields.io/github/watchers/Darrkzero/tkinter.svg?style=social&label=Watch&maxAge=2592000)
 
 # tkinter
 tkinter basic calculator.
