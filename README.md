@@ -8,7 +8,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/Darrkzero/tkinter.svg?style=social&label=Watch&maxAge=2592000)
 
 # <p align="center">tkinter basic calculator</p>
-Using tkinter to create a grahphical user interface calculator.
+<h4 align="center">Using tkinter to create a grahphical user interface calculator.</h4>
 
 # <p align="center">Introduction</p>
 <h4 align="center">This is a tutorial to help contributors to participate in a simple and easy project.</h4>
