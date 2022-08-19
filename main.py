@@ -67,23 +67,23 @@ def equal():
 
 
 # create the button
-button1 = tkinter.Button(text="1", padx=40, pady=20, bg="black", fg="white", command=lambda: first_num(1))
-button2 = tkinter.Button(text="2", padx=40, pady=20, bg="black", fg="white", command=lambda: first_num(2))
-button3 = tkinter.Button(text="3", padx=40, pady=20, bg="black", fg="white", command=lambda: first_num(3))
-button4 = tkinter.Button(text="4", padx=40, pady=20, bg="black", fg="white", command=lambda: first_num(4))
-button5 = tkinter.Button(text="5", padx=40, pady=20, bg="black", fg="white", command=lambda: first_num(5))
-button6 = tkinter.Button(text="6", padx=40, pady=20, bg="black", fg="white", command=lambda: first_num(6))
-button7 = tkinter.Button(text="7", padx=40, pady=20, bg="black", fg="white", command=lambda: first_num(7))
-button8 = tkinter.Button(text="8", padx=40, pady=20, bg="black", fg="white", command=lambda: first_num(8))
-button9 = tkinter.Button(text="9", padx=40, pady=20, bg="black", fg="white", command=lambda: first_num(9))
-button0 = tkinter.Button(text="0", padx=40, pady=20, bg="black", fg="white", command=lambda: first_num(0))
-clear = tkinter.Button(text="clear", padx=30, pady=20, bg="black", fg="white", command=clear_all)
-button_add = tkinter.Button(text="+", padx=40, pady=20, bg="orange", command=addition)
-button_divide = tkinter.Button(text="/", padx=40, pady=20, bg="orange", command=addition)
-button_multiply = tkinter.Button(text="*", padx=40, pady=20, bg="orange", command=addition)
+button1 = tkinter.Button(text="1", padx=40, pady=20, bg="#1d1c1c", fg="white", command=lambda: first_num(1))
+button2 = tkinter.Button(text="2", padx=40, pady=20, bg="#1d1c1c", fg="white", command=lambda: first_num(2))
+button3 = tkinter.Button(text="3", padx=40, pady=20, bg="#1d1c1c", fg="white", command=lambda: first_num(3))
+button4 = tkinter.Button(text="4", padx=40, pady=20, bg="#1d1c1c", fg="white", command=lambda: first_num(4))
+button5 = tkinter.Button(text="5", padx=40, pady=20, bg="#1d1c1c", fg="white", command=lambda: first_num(5))
+button6 = tkinter.Button(text="6", padx=40, pady=20, bg="#1d1c1c", fg="white", command=lambda: first_num(6))
+button7 = tkinter.Button(text="7", padx=40, pady=20, bg="#1d1c1c", fg="white", command=lambda: first_num(7))
+button8 = tkinter.Button(text="8", padx=40, pady=20, bg="#1d1c1c", fg="white", command=lambda: first_num(8))
+button9 = tkinter.Button(text="9", padx=40, pady=20, bg="#1d1c1c", fg="white", command=lambda: first_num(9))
+button0 = tkinter.Button(text="0", padx=40, pady=20, bg="#1d1c1c", fg="white", command=lambda: first_num(0))
+clear = tkinter.Button(text="clear", padx=30, pady=20, bg="#1d1c1c", fg="white", command=clear_all)
+button_add = tkinter.Button(text="+", padx=39, pady=20, bg="orange", command=addition)
+button_divide = tkinter.Button(text="/", padx=40, pady=20, bg="orange", command=division)
+button_multiply = tkinter.Button(text="*", padx=40, pady=20, bg="orange", command=multiplication)
 button_subtract = tkinter.Button(text="-", padx=40, pady=20, bg="orange", command=subtraction)
 
-equal_to = tkinter.Button(text="=", padx=40, pady=20, bg="royal blue", command=equal)
+equal_to = tkinter.Button(text="=", padx=39, pady=20, bg="royal blue", command=equal)
 
 # place the buttons
 button9.grid(row=1, column=0)
