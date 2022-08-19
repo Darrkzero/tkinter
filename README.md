@@ -13,4 +13,7 @@
 # <p align="center">Introduction</p>
 <h4 align="center">This is a tutorial to help contributors to participate in a simple and easy project.</h4>
 # <p align="center">what am I going to contribute?</p>
+<p align="center" width="100%">
 <img src="tk sample.png" width="300">
+</p>
+<h4 align="center">The calculator contains the basic features(addition,subtracton,division and multiplication).you can contribute by adding other features to the calculator</h4>
